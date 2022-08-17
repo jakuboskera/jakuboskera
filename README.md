@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> Hi 👋, I am Jakub Oskera</h2>
+  <h1 align="center"> Hi 👋, I am Jakub&nbsp;Oskera</h2>
   <h3 align="center">DevOps Engineer 🇨🇿🇬🇧</h3>
   <a href="https://www.linkedin.com/in/jakuboskera"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
