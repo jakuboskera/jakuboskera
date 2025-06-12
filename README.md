@@ -1,12 +1,24 @@
 <p align="center">
   <h1 align="center"> Hi 👋, I am Jakub&nbsp;Oskera</h2>
-  <h3 align="center">DevOps Engineer 🇨🇿🇬🇧</h3>
+  <h3 align="center">DevOps/Platform Engineer | Kubernetes & Cloud Infrastructure Enthusiast 🇨🇿🇬🇧</h3>
   <a href="https://www.linkedin.com/in/jakuboskera"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
-I was a Windows user until college where my classes and labs used Unix based systems. It didn't take long and I switched to the macOS system and fell in love with the Linux world. I was most interested in DevOps culture technologies, and when I discovered the world of containers, I found that this is a field I want to spend my time to. I like to think of myself as a DevOps craftsman, and quality is something that's really important to me. And to improve the quality of the things that I build, I'm constantly learning and discovering new techniques and covering new technologies. This passion of technology has only really, ever been overshadowed by me in the way that I love to teach. Nothing is more satisfying than seeing somebody learn a new skill that they can apply and grow in some way that they want to in their life. When I'm not covering new technologies or writing code, you'd probably find me playing football with friends, reading a book or hiking.
+With over 7+ years of experience in DevOps engineering, I specialize in the Kubernetes/containers ecosystem,
+building platforms, infrastructure automation, and CI/CD workflows.
 
-Among other things, I am lover of pizza 🍕, craft beer 🍺, documented OSS 🤓 and I am currently employed as DevOps Engineer at [RWS Group](https://www.linkedin.com/company/rws-group/).
+- 🐋 **Containers & Orchestration**: Kubernetes (CKA, CKAS), Docker, Helm
+- ⚙️ **CI/CD & Automation**: GitLab CI/CD, ArgoCD, TeamCity
+- ☁️ **Cloud Platforms**: Azure
+- 🐧 **Linux & Open Source**: Debian-based distributions (LFCS), passionate for open-source technologies
+- 🛠️ **Infrastructure as Code**: Terraform, Ansible
+- 📈 **Monitoring & Observability**: Prometheus (PCA), Grafana, Thanos
+- 💻 **Programming & Scripting**: Python (PCEP), Bash, GO
+
+I’m dedicated to building scalable, secure, and efficient infrastructure, continuously exploring the latest DevOps
+tools and best practices. Beyond my professional interests, I enjoy playing football, reading, and hiking.
+
+Among other things, I am lover of pizza 🍕, craft beer 🍺 and documented OSS 🤓.
 
 <h3 align="center">Technologies which I am using</h3>
 <p>
@@ -24,18 +36,3 @@ Among other things, I am lover of pizza 🍕, craft beer 🍺, documented OSS �
   <img alt="Python" src="https://img.shields.io/badge/-Python-FFC645?style=flat-square&logo=Python&logoColor=#FFC141" />
   <img alt="GOlang" src="https://img.shields.io/badge/-GOlang-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p>
-
-<!--
-**jakuboskera/jakuboskera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
